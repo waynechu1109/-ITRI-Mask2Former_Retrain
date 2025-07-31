@@ -146,7 +146,7 @@ After retrain, the model is able to segment **pavement markings** and **stairs**
         <div style="margin-top: 8px;">Living Room</div>
       </div>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; vertical-align: center;">
       <div style="width: 100%; text-align: center;">
         <img src="readme_media/merged_bedroom.jpg" style="width: 100%;" />
         <div style="margin-top: 8px;">Bedroom</div>
@@ -158,8 +158,8 @@ After retrain, the model is able to segment **pavement markings** and **stairs**
 The segmentation of indoor scenes are even better than the model trained on ADE20k dataset only. 
 
 ## Related Porjects
-- NVIDIA TAO Mask2Former Speedup
-- Mask2Former Real-Time Video Inference
+- [NVIDIA TAO Mask2Former Speedup](https://github.com/waynechu1109/-ITRI-TAO_Mask2Former_Speedup.git)
+- [Mask2Former Real-Time Video Inference](https://github.com/waynechu1109/-ITRI-Mask2Former_Deployment.git)
 
 ## Acknowledgement
 Code is largely based on MaskFormer (https://github.com/facebookresearch/MaskFormer) and Mask2Former (https://github.com/facebookresearch/Mask2Former).
