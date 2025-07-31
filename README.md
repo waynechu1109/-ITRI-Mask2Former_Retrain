@@ -1,6 +1,6 @@
 # [ITRI Internship] Mask2Former Retrain with Custom Dataset
 
-This project is completed based on [Mask2Former](https://github.com/facebookresearch/Mask2Former), which is a powerful image segmentation model.
+This project is largely based on [Mask2Former](https://github.com/facebookresearch/Mask2Former), which is a powerful image segmentation model.
 
 ## Why retrain Mask2Former?
 Mask2Former is trained on the datasets such as **Mapillary**, **COCO**, **ADE20k**, and **Cityscapes**. Some of these datasets contain rich indoor scenes, while others contain rich outdoor scenes. Therefore, the Mask2Former model trained on these datasets is good at segmenting either indoor scene or outdoor scene. 
@@ -81,13 +81,13 @@ python3 demo.py --config-file <config_path> \
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <div style="width: 100%; text-align: center;">
-        <img src="readme_media/mapillary_dog.gif" style="width: 100%;" />
+        <img src="readme_media/mapillary_dog_.gif" style="width: 100%;" />
         <div style="margin-top: 8px;">Mapillary</div>
       </div>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <div style="width: 100%; text-align: center;">
-        <img src="readme_media/ade20k_dog.gif" style="width: 100%;" />
+        <img src="readme_media/ade20k_dog_.gif" style="width: 100%;" />
         <div style="margin-top: 8px;">ADE20K</div>
       </div>
     </td>
@@ -122,13 +122,13 @@ For indoor scenes, the difference of segmentation effect between the two models 
   <tr>
     <td style="width: 50%; vertical-align: top;">
       <div style="width: 100%; text-align: center;">
-        <img src="readme_media/merged_dog.gif" style="width: 100%;" />
+        <img src="readme_media/merged_dog_.gif" style="width: 100%;" />
         <div style="margin-top: 8px;">Outdoor Scene 1</div>
       </div>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <div style="width: 100%; text-align: center;">
-        <img src="readme_media/merged_dog_2.gif" style="width: 100%;" />
+        <img src="readme_media/merged_dog_2_.gif" style="width: 100%;" />
         <div style="margin-top: 8px;">Outdoor Scene 2</div>
       </div>
     </td>
