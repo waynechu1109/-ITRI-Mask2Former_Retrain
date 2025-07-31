@@ -1,0 +1,223 @@
+ID,Merged_Label_(start_from _Mapillary),Readable
+0,animal--bird,Bird
+1,animal--ground-animal,Ground Animal
+2,construction--barrier--ambiguous,Ambiguous Barrier
+3,construction--barrier--concrete-block,Concrete Block
+4,construction--barrier--curb,Curb
+5,construction--barrier--fence,Fence
+6,construction--barrier--guard-rail,Guard Rail
+7,construction--barrier--other-barrier,Barrier
+8,construction--barrier--road-median,Road Median
+9,construction--barrier--road-side,Road Side
+10,construction--barrier--separator,Lane Separator
+11,construction--barrier--temporary,Temporary Barrier
+12,construction--barrier--wall,Wall
+13,construction--flat--bike-lane,Bike Lane
+14,construction--flat--crosswalk-plain,Crosswalk - Plain
+15,construction--flat--curb-cut,Curb Cut
+16,construction--flat--driveway,Driveway
+17,construction--flat--parking,Parking
+18,construction--flat--parking-aisle,Parking Aisle
+19,construction--flat--pedestrian-area,Pedestrian Area
+20,construction--flat--rail-track,Rail Track
+21,construction--flat--road,Road
+22,construction--flat--road-shoulder,Road Shoulder
+23,construction--flat--service-lane,Service Lane
+24,construction--flat--sidewalk,Sidewalk
+25,construction--flat--traffic-island,Traffic Island
+26,construction--structure--bridge,Bridge
+27,construction--structure--building,Building
+28,construction--structure--garage,Garage
+29,construction--structure--tunnel,Tunnel
+30,human--person--individual,Person
+31,human--person--person-group,Person Group
+32,human--rider--bicyclist,Bicyclist
+33,human--rider--motorcyclist,Motorcyclist
+34,human--rider--other-rider,Other Rider
+35,marking--continuous--dashed,Lane Marking - Dashed Line
+36,marking--continuous--solid,Lane Marking - Straight Line
+37,marking--continuous--zigzag,Lane Marking - Zigzag Line
+38,marking--discrete--ambiguous,Lane Marking - Ambiguous
+39,marking--discrete--arrow--left,Lane Marking - Arrow (Left)
+40,marking--discrete--arrow--other,Lane Marking - Arrow (Other)
+41,marking--discrete--arrow--right,Lane Marking - Arrow (Right)
+42,marking--discrete--arrow--split-left-or-straight,Lane Marking - Arrow (Split Left or Straight)
+43,marking--discrete--arrow--split-right-or-straight,Lane Marking - Arrow (Split Right or Straight)
+44,marking--discrete--arrow--straight,Lane Marking - Arrow (Straight)
+45,marking--discrete--crosswalk-zebra,Lane Marking - Crosswalk
+46,marking--discrete--give-way-row,Lane Marking - Give Way (Row)
+47,marking--discrete--give-way-single,Lane Marking - Give Way (Single)
+48,marking--discrete--hatched--chevron,Lane Marking - Hatched (Chevron)
+49,marking--discrete--hatched--diagonal,Lane Marking - Hatched (Diagonal)
+50,marking--discrete--other-marking,Lane Marking - Other
+51,marking--discrete--stop-line,Lane Marking - Stop Line
+52,marking--discrete--symbol--bicycle,Lane Marking - Symbol (Bicycle)
+53,marking--discrete--symbol--other,Lane Marking - Symbol (Other)
+54,marking--discrete--text,Lane Marking - Text
+55,marking-only--continuous--dashed,Lane Marking (only) - Dashed Line
+56,marking-only--discrete--crosswalk-zebra,Lane Marking (only) - Crosswalk
+57,marking-only--discrete--other-marking,Lane Marking (only) - Other
+58,marking-only--discrete--text,Lane Marking (only) - Test
+59,nature--mountain,Mountain
+60,nature--sand,Sand
+61,nature--sky,Sky
+62,nature--snow,Snow
+63,nature--terrain,Terrain
+64,nature--vegetation,Vegetation
+65,nature--water,Water
+66,object--banner,Banner
+67,object--bench,Bench
+68,object--bike-rack,Bike Rack
+69,object--catch-basin,Catch Basin
+70,object--cctv-camera,CCTV Camera
+71,object--fire-hydrant,Fire Hydrant
+72,object--junction-box,Junction Box
+73,object--mailbox,Mailbox
+74,object--manhole,Manhole
+75,object--parking-meter,Parking Meter
+76,object--phone-booth,Phone Booth
+77,object--pothole,Pothole
+78,object--sign--advertisement,Signage - Advertisement
+79,object--sign--ambiguous,Signage - Ambiguous
+80,object--sign--back,Signage - Back
+81,object--sign--information,Signage - Information
+82,object--sign--other,Signage - Other
+83,object--sign--store,Signage - Store
+84,object--street-light,Street Light
+85,object--support--pole,Pole
+86,object--support--pole-group,Pole Group
+87,object--support--traffic-sign-frame,Traffic Sign Frame
+88,object--support--utility-pole,Utility Pole
+89,object--traffic-cone,Traffic Cone
+90,object--traffic-light--general-single,Traffic Light - General (Single)
+91,object--traffic-light--pedestrians,Traffic Light - Pedestrians
+92,object--traffic-light--general-upright,Traffic Light - General (Upright)
+93,object--traffic-light--general-horizontal,Traffic Light - General (Horizontal)
+94,object--traffic-light--cyclists,Traffic Light - Cyclists
+95,object--traffic-light--other,Traffic Light - Other
+96,object--traffic-sign--ambiguous,Traffic Sign - Ambiguous
+97,object--traffic-sign--back,Traffic Sign (Back)
+98,object--traffic-sign--direction-back,Traffic Sign - Direction (Back)
+99,object--traffic-sign--direction-front,Traffic Sign - Direction (Front)
+100,object--traffic-sign--front,Traffic Sign (Front)
+101,object--traffic-sign--information-parking,Traffic Sign - Parking
+102,object--traffic-sign--temporary-back,Traffic Sign - Temporary (Back)
+103,object--traffic-sign--temporary-front,Traffic Sign - Temporary (Front)
+104,object--trash-can,Trash Can
+105,object--vehicle--bicycle,Bicycle
+106,object--vehicle--boat,Boat
+107,object--vehicle--bus,Bus
+108,object--vehicle--car,Car
+109,object--vehicle--caravan,Caravan
+110,object--vehicle--motorcycle,Motorcycle
+111,object--vehicle--on-rails,On Rails
+112,object--vehicle--other-vehicle,Other Vehicle
+113,object--vehicle--trailer,Trailer
+114,object--vehicle--truck,Truck
+115,object--vehicle--vehicle-group,Vehicle Group
+116,object--vehicle--wheeled-slow,Wheeled Slow
+117,object--water-valve,Water Valve
+118,void--car-mount,Car Mount
+119,void--dynamic,Dynamic
+120,void--ego-vehicle,Ego Vehicle
+121,void--ground,Ground
+122,void--static,Static
+123,void--unlabeled,Unlabeled
+124,New-floor,Floor
+125,New-ceiling,Ceiling
+126,New-bed,Bed
+127,New-cabinet,Cabinet
+128,New-door,Door
+129,New-table,Table
+130,New-curtain,Curtain
+131,New-chair,Chair
+132,New-sofa,Sofa
+133,New-shelf,Shelf
+134,New-field,Field
+135,New-armchair,Armchair
+136,New-seat,Seat
+137,New-desk,Desk
+138,New-rock,Rock
+139,New-closet,Closet
+140,New-lamp,Lamp
+141,New-bathtub,Bathtub
+142,New-cushion,Cushion
+143,New-pedestal,Pedestal
+144,New-box,Box
+145,New-dresser,Dresser
+146,New-counter,Counter
+147,New-sink,Sink
+148,New-fireplace,Fireplace
+149,New-refrigerator,Refrigerator
+150,New-stairs,Stairs
+151,New-showcase,Showcase
+152,New-pool-table,Pool-table
+153,New-pillow,Pillow
+154,New-screen-door,Screen-door
+155,New-bookcase,Bookcase
+156,New-blind-screen,Blind-screen
+157,New-coffee-cocktail-table,Coffee-cocktail-table
+158,New-toilet,Toilet
+159,New-book,Book
+160,New-countertop,Countertop
+161,New-stove,Stove
+162,New-kitchen-island,Kitchen-island
+163,New-computer,Computer
+164,New-swivel-chair,Swivel-chair
+165,New-bar,Bar
+166,New-arcade-machine,Arcade-machine
+167,New-towel,Towel
+168,New-indoor-light,Indoor-light
+169,New-chandelier,Chandelier
+170,New-awning-sunshade-sunblind,Awning-sunshade-sunblind
+171,New-booth-cubicle-stall-kiosk,Booth-cubicle-stall-kiosk
+172,New-television,Television
+173,New-airplane,Airplane
+174,New-dirt-track,Dirt-track
+175,New-clothes,Clothes
+176,New-escalator,Escalator
+177,New-ottoman,Ottoman
+178,New-bottle,Bottle
+179,New-buffet-counter-sideboard ,Buffet-counter-sideboard 
+180,New-paperwork,Paperwork
+181,New-stage,Stage
+182,New-van,Van
+183,New-ship,Ship
+184,New-fountain,Fountain
+185,New-conveyor,Conveyor
+186,New-canopy,Canopy
+187,New-washer,Washer
+188,New-toy,Toy
+189,New-swimming-pool,Swimming-pool
+190,New-stool,Stool
+191,New-barrel,Barrel
+192,New-basket,Basket
+193,New-tent,Tent
+194,New-bag,Bag
+195,New-cradle,Cradle
+196,New-oven,Oven
+197,New-ball,Ball
+198,New-food,Food
+199,New-storage-tank,Storage-tank
+200,New-brand,Brand
+201,New-microwave,Microwave
+202,New-pot,Pot
+203,New-dishwasher,Dishwasher
+204,New-projection-screen,Projection-screen
+205,New-blanket,Blanket
+206,New-sculpture,Sculpture
+207,New-exhaust-hood,Exhaust-hood
+208,New-sconce,Sconce
+209,New-vase,Vase
+210,New-tray,Tray
+211,New-fan,Fan
+212,New-pier,Pier
+213,New-crt-screen,Crt-screen
+214,New-plate,Plate
+215,New-monitor,Monitor
+216,New-bulletin,Bulletin
+217,New-shower,Shower
+218,New-radiator,Radiator
+219,New-glass,Glass
+220,New-clock,Clock
+221,New-flag,Flag
